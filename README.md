@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tudorcatalin135
+- 👋 Hi, I’m Catalin Tudor
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning IBM Data Science Certificate
 - 📫 How to reach me: tudorcatalin135@gmail.com
